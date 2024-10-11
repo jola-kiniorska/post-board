@@ -26,8 +26,8 @@ function PostsList({ isPosting, onStopPosting }) {
         </ul>
       )}
       {posts.length === 0 && (
-        <div>
-          <h2>There are no posts yest</h2>
+        <div className={classes.text}>
+          <h2>There are no posts yet</h2>
           <p>Start adding some!</p>
         </div>
       )}
