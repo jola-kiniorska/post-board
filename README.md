@@ -12,17 +12,20 @@ Simple application for posting
 
 ## General info
 
+- it's an application to adding posts on the posting board (with author name and content)
 - application is built on react components
-- css module was used to style the application
-- vite was used to initialize the application
 - the website was created as part of the react course
+- vite was used to initialize the application
+- css module was used to style the application
 - the application uses react hooks
+- to navigate the application was used react router
 
 ## Technologies
 
 Project is created with:
 
 - React.js
+- React Router
 - CSS Modules
 - JavaScript
 - HTML
@@ -30,7 +33,18 @@ Project is created with:
 ## Packages used
 
 - react-icons
+- react-router-dom
 
 ## Website url
 
+coming soon...
+
 ## Website screenshot
+
+### Post board
+
+<img src="./public/images/screenshot_post_board.png" alt="app-screenshot">
+
+### Add new post
+
+<img src="./public/images/screenshot_add_post.png" alt="app-screenshot">
